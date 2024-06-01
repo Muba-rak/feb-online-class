@@ -1,0 +1,32 @@
+git- software that allows us keep track of changes in our files 
+
+version control - 
+
+terminal
+cd - change directory 
+cli - git bash
+repository
+
+github - a website to host our repository or repo
+
+config
+    git config --global user.email 'youremail@example.com'
+    git config --global user.name 'yourusername'
+init 
+add 
+commit
+push 
+status
+clone
+pull
+
+
+
+git init
+git add . 
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Muba-rak/feb-online-class.git
+git push -u origin main
+
+
