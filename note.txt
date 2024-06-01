@@ -29,4 +29,7 @@ git branch -M main
 git remote add origin https://github.com/Muba-rak/feb-online-class.git
 git push -u origin main
 
+pushing to an existing repo
+git add .
+
 
