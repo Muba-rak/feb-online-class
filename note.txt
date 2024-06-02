@@ -31,5 +31,6 @@ git push -u origin main
 
 pushing to an existing repo
 git add .
-
+git commit -m 'commit message'
+git push
 
